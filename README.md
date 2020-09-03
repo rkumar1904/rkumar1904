@@ -8,3 +8,5 @@
 - 📫 How to reach me: ...@rkumar1904
 - 😄 Pronouns: ...RjLooper
 - ⚡ Fun fact: ...<RjLooper props={[Love 💜, Code 👨🏻‍💻, Deploy 🚀 } />
+
+![Rajesh's github stats](https://github-readme-stats.vercel.app/api?username=rkumar1904&show_icons=true&count_private=true)
